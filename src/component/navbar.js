@@ -19,7 +19,7 @@ function Navbar (){
            </div>
 
            <div>
-          <h1 className =" font-weight-bold "style={{ "color":" blue ","fontSize":"50px"}}> ONTRACK</h1>
+          <h1 className =" font-weight-bold "style={{ "color":" blue ","fontSize":"50px" ,"font-family": "'Dancing Script', cursive"}}> ONTRACK</h1>
           </div>
           <div>
           <Link style={{"float":"right" ,"marginLeft":"30px"}} className="text-secondary"to="/ Home">Home</Link>
